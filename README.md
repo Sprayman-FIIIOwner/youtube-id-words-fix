@@ -1,4 +1,5 @@
-# I FOUND SOME RUDE WORDS ON YOUTUBE
-here they are
+# Fixes
 
-this is just a repo so I can host this stuff on GH pages
+About Me: A former moderator in a lots of server in [Guilded](https://www.guilded.gg).  
+What this fork does is basically fix the issues in youtube-id-words-fix
+HOPE DEV DETOUR NOTICE MY FORKS
